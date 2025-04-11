@@ -2,6 +2,7 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "github.com/zerls"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
@@ -9,6 +10,7 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  url: "starsss747@gmail.com"
 
 - type: rss
   icon: "fas fa-rss"
