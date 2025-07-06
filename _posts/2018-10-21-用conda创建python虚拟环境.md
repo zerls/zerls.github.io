@@ -1,7 +1,7 @@
 ---
 title: 用conda创建python虚拟环境
 date: 2018/10/21
-updated: 2018/10/22
+last_modified_at: 2018/10/22
 tags: 命令
 categories: 
 ---
