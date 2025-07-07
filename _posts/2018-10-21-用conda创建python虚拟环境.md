@@ -2,8 +2,8 @@
 title: 用conda创建python虚拟环境
 date: 2018/10/21
 last_modified_at: 2018/10/22
-tags: 命令
-categories: 
+tags: 命令 Python
+categories: 随记
 ---
 
 1.  conda常用的命令
